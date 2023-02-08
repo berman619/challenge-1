@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Challenge 1 Code Refactor
 
 User Story:
 AS A marketing agency
@@ -20,9 +20,14 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
-To Do:
-1. Create Semantic HTML Elements
-2. HTML elements should follow a logical structure independent of styling and positioning
-3. Give image elements alt attributes
-4. Make heading attributes fall in sequential order
-5. Give title element a concise, descriptive title
+Description of work executed:
+1. Created semantic HTML elements and removed non-semantic HTML elements where applicable 
+2. Ensured that HTML elements follow a logical structure independent of styling and positioning
+3. Gave all image elements alt attributes
+4. Adjusted heading attributes to fall in sequential order
+5. Gave the title element on the page a concise, descriptive title
+6. Added comments in HTML document noting the start of each new section (header, aside, etc.)
+
+Screenshot of deployed webpage:
+
+Link to deployed webpage: 
