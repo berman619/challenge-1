@@ -34,4 +34,4 @@ THEN I find a concise, descriptive title
 
 ## Link to deployed webpage: 
 
-Deployed URL: TBD
+Deployed URL: https://berman619.github.io/challenge-1/
